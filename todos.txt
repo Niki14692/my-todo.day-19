@@ -1,0 +1,6 @@
+Print the picture.
+Fix the floor.
+Buy grocery.
+Delete all items
+Copy all book.
+add new item
